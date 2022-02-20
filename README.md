@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Neil](https://twitter.com/RealNeilC).
 
-<!--
-**neilchaudhuri/neilchaudhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the President of [Vidya](https://www.vidyasource.com/). I work as an architect and engineer who helps you build better software. I've been in the game for a while, and I've learned a lot. I teach [courses](https://www.vidyasource.com/courses) that dispense with theory (although I admit I enjoy theory) and help you succeed at work.
 
-Here are some ideas to get you started:
+The problem is I have infinitely more to learn every day. It's fun though!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✈️ I am available for remote [consulting](https://www.vidyasource.com/consulting).
+- 📫 I [blog](https://www.vidyasource.com/blog) about a wide range of tech topics for engineers and product managers but also for anyone who wants to think about how technology impacts our lives.
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/neil-chaudhuri/).
+- Pronouns: He/Him
+
+## Promoting Diversity in Tech
+
+At Vidya, we are a passionate advocate for diversity in technology. Prejudice against anyone on the basis of gender, race, ethnicity, nationality, religion, orientation, ability, or even academic background not only limits our individual growth but also limits the creative energy necessary to develop the best software.
+
+ ## Primary Tech Stack 🛠 &nbsp;
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=red)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=orange)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=blue)
+
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+![Play Framework](https://img.shields.io/badge/-PlayFramework-333333?style=flat&logo=playframework)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next)
+ 
