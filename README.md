@@ -7,7 +7,6 @@ The problem is I have infinitely more to learn every day. It's fun though!
 - ✈️ I am available for remote [consulting](https://www.vidyasource.com/consulting).
 - 📫 I [blog](https://www.vidyasource.com/blog) about a wide range of tech topics for engineers and product managers but also for anyone who wants to think about how technology impacts our lives.
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/neil-chaudhuri/).
-- Pronouns: He/Him
 
 ## Promoting Diversity in Tech
 
@@ -16,13 +15,14 @@ At Vidya, we are a passionate advocate for diversity in technology. Prejudice ag
  ## Primary Tech Stack 🛠 &nbsp;
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=red)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=orange)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=yellow)
+![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=red)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=blue)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=yellow)
 
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![Play Framework](https://img.shields.io/badge/-PlayFramework-333333?style=flat&logo=playframework)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
 ![Next.js](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next)
  
