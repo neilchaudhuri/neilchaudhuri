@@ -23,6 +23,6 @@ At Vidya, we are a passionate advocate for diversity in technology. Prejudice ag
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
 ![Play Framework](https://img.shields.io/badge/-PlayFramework-333333?style=flat&logo=playframework)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astrologoColor=yellow)
 ![Next.js](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next)
  
