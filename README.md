@@ -28,11 +28,11 @@ These are positions I hold and defend in production.
 - **Functional core, imperative shell.** Keep purity at the center and push effects to the edge.
 - **Modular monolith first.** Microservices solve organizational and scaling problems. Reach for them when those problems actually arrive.
 - **Zero Trust and DevSecOps.** Every service authenticates every request, and security lives in the pipeline.
-- **Types and tests both matter.** Coverage as a target is a trap. I chase confidence, measured by mutation testing, not a line-coverage number.
-- **Agile buys confidence.** Pursue confidence, not velocity. DORA and SPACE tell you something real. The McKinsey developer-productivity index does not.
+- **Types and tests both matter.** Coverage as a target is a trap. I chase confidence, measured by mutation testing, not a coverage number. Types are also critical for configuration and not just code.
+- **Agile buys confidence.** Agile is not about meetings where no one is allowed to sit down. Deliver something fast. Get feedbaack. Iterate towards outcomes. DORA and SPACE tell you something real. The McKinsey developer productivity index does not.
 - **Python has a place, and enterprise AI is not it.** I build production AI on the JVM.
 
-I write about all of this, name the people and papers I disagree with, and back the opinions with measurable outcomes from my own engagements.
+I [write]https://www.vidyasource.com/blog/) about all of this and back the opinions with measurable outcomes from my own engagements.
 
 ---
 
@@ -48,7 +48,6 @@ I write about all of this, name the people and papers I disagree with, and back 
 ![Spring AI](https://img.shields.io/badge/-Spring%20AI-333333?style=flat&logo=spring&logoColor=green)
 ![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-333333?style=flat&logo=anthropic)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro&logoColor=orange)
 
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark&logoColor=E25A1C)
@@ -66,6 +65,6 @@ Lately I spend my time on agent frameworks, MCP, building an "evaluation gauntle
 
 I [blog](https://www.vidyasource.com/blog) about software engineering, architecture, AI, and how technology shapes the way we work and live. I write for engineers, for product managers, and for anyone who wants to think harder about the systems we build. I also teach [courses](https://www.vidyasource.com/courses) that skip the theory worship and help working engineers ship better software: Enterprise AI on the JVM, Data Engineering with Spark, Java for Work, and Modern Agile.
 
-The GAO cited me as an expert user in its report on agile methods in the federal government. I have spoken on the promise and peril of the Model Context Protocol, reactive programming with Spring Boot, and even at the White House on how government can attract elite tech talent.
+The GAO cited me as an expert user in its report on agile methods in the federal government. I have spoken on the promise and peril of the Model Context Protocol, reactive programming with Spring Boot, and even at the [White House](https://www.vidyasource.com/blog/vidya-talks-modernizing-tech-hiring-federal-government-white-house/) on how government can attract elite tech talent.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/neil-chaudhuri/) or at [vidyasource.com](https://www.vidyasource.com).
