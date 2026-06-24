@@ -30,7 +30,7 @@ These are positions I hold and defend in production.
 - **Zero Trust and DevSecOps.** Every service authenticates every request, and security lives in the pipeline.
 - **Types and tests both matter.** Coverage as a target is a trap. I chase confidence, measured by mutation testing, not a coverage number. Types are also critical for configuration and not just code.
 - **Agile buys confidence.** Agile is not about meetings where no one is allowed to sit down. Deliver something fast. Get feedbaack. Iterate towards outcomes. DORA and SPACE tell you something real. The McKinsey developer productivity index does not.
-- **Python has a place, and enterprise AI is not it.** I build production AI on the JVM.
+- **Python is great and reigns supreme at data science, but [Python is not the language of AI](https://www.vidyasource.com/blog/python-is-not-language-of-ai/).** I build production AI on the JVM.
 
 I [write](https://www.vidyasource.com/blog/) about all of this and back the opinions with measurable outcomes from my own engagements.
 
