@@ -32,7 +32,7 @@ These are positions I hold and defend in production.
 - **Agile buys confidence.** Agile is not about meetings where no one is allowed to sit down. Deliver something fast. Get feedbaack. Iterate towards outcomes. DORA and SPACE tell you something real. The McKinsey developer productivity index does not.
 - **Python has a place, and enterprise AI is not it.** I build production AI on the JVM.
 
-I [write]https://www.vidyasource.com/blog/) about all of this and back the opinions with measurable outcomes from my own engagements.
+I [write](https://www.vidyasource.com/blog/) about all of this and back the opinions with measurable outcomes from my own engagements.
 
 ---
 
