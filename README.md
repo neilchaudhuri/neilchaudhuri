@@ -4,7 +4,7 @@ President of [Vidya](https://www.vidyasource.com). Software architect and engine
 
 I have spent most of my career on the hard part of software: integrating leading edge technology with systems that already carry real load. State Department Consular Systems Modernization, HealthCare.gov, Recreation.gov, and a decade of commercial work taught me that the simplest architecture you can defend usually wins.
 
-Currently I build enterprise AI on the JVM with Kotlin, Spring AI, and the Model Context Protocol.
+Currently I build enterprise AI on the JVM with Kotlin, Spring AI, the Model Context Protocol, and Agent Skills.
 
 ---
 
