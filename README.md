@@ -22,7 +22,7 @@ I take remote [consulting](https://www.vidyasource.com/consulting) engagements.
 
 ### How I think about engineering
 
-These are positions I hold and defend in production, not slogans.
+These are positions I hold and defend in production.
 
 - **Composition over inheritance.** Program to interfaces. Inheritance hierarchies age badly.
 - **Functional core, imperative shell.** Keep purity at the center and push effects to the edge.
