@@ -2,9 +2,9 @@
 
 President of [Vidya](https://www.vidyasource.com). Software architect and engineer with 25+ years building production systems for commercial and federal clients. I help teams modernize legacy platforms, ship enterprise AI, and recover engineering cultures that have drifted off course.
 
-I have spent most of my career on the hard part of software: integrating leading edge technology with systems that already carry real load. State Department Consular Systems Modernization, HealthCare.gov, Recreation.gov, and a decade of commercial work taught me that the simplest architecture you can defend usually wins.
+I have spent most of my career on the hard part of software: integrating leading edge technology with systems that already carry real load. State Department Consular Systems Modernization, HealthCare.gov, Recreation.gov, and a decade of commercial work taught me that the simplest architecture wins.
 
-Currently I build enterprise AI on the JVM with Kotlin, Spring AI, the Model Context Protocol, and Agent Skills.
+Currently I build enterprise AI on the JVM with Kotlin, Spring AI, the Model Context Protocol, and Agent Skills. I am an Ambassador, one of only 138 worldwide, for the [Agentic AI Foundation](https://aaif.io/), which is doing for AI what the W3C did for the web 30 years ago. I want to show you why standards always matter and especially so in the AI era when the capabilities and cost of models change literally daily.
 
 ---
 
